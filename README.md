@@ -3,8 +3,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/devfilip1/devfilip1/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="100" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/devfilip1/devfilip1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="170" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/devfilip1/devfilip1/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="165" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/devfilip1/devfilip1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="165" alt="languages graph"  />
 </div>
 
 ###
